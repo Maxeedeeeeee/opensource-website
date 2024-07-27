@@ -1,6 +1,6 @@
 baseURL: https://opensource.twitter.dev/
 languageCode: en-us
-title: Twitter Open Source
+title: PvpClub (MC)
 
 # disable taxonomy pages
 taxonomies: []
@@ -21,9 +21,9 @@ markup:
 menu:
   main:
   # individual pages are added to menu in their front matter
-  - identifier: blog
-    name: Blog
-    url: https://blog.twitter.com/engineering/en_us/topics/open-source
+  - identifier: test
+    name: test
+    url: https://youtube.com/@clubmc
     rel: noopener
     weight: 10
   - identifier: github
